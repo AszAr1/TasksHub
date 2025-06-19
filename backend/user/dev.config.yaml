@@ -1,0 +1,8 @@
+server:
+  host: "localhost"
+  port: 3000
+  cors:
+    frontendLink: "http://localhost:3001"
+    allowedMethods: "PUT, POST, GET, PATCH, Headers"
+    allowCookies: true
+

@@ -1,0 +1,1 @@
+export { UserApplicationMapper } from './mapper';
