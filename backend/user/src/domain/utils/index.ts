@@ -1,0 +1,1 @@
+export { getClearObjectFields } from './get-cleat-object-fields.utils';
