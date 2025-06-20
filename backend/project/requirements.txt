@@ -1,0 +1,13 @@
+starlette
+fastapi
+fastapi[standard]
+sqlalchemy
+black
+pydantic
+pydantic[email]
+pydantic-settings
+uvicorn[standard]
+hypercorn
+alembic
+python-dotenv
+asyncpg
